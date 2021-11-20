@@ -32,8 +32,6 @@ imagens as seguintes classes:
 ●Alvéolos vazios
 
 ---
-Foi possível, por meio dos testes realizados, segmentar algumas classes como mel
-maduro, alvéolos vazios e pupa, entretanto outras classes como pólen e larvas não
-mostrou-se possível chegar a uma conclusão. Foram realizados diversos testes, que podem
+Foi possível, por meio dos testes realizados, segmentar às classes. Foram realizados diversos testes, que podem
 ser verificados no código fonte. Destaca-se que para a realização do
 trabalho foram utilizadas as bibliotecas, numpy, matplot e OpenCV do Python.
