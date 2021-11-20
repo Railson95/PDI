@@ -14,7 +14,7 @@ quadros foram fotografados com o objetivo de analisar a porcentagem que cada uma
 ocupa em relação ao todo. As 5 classes observadas são: mel, pupa, pólen, larva e alvéolos
 vazios.
 
-Esse trabalho tem como objetivo explorar diferentes metodologias utilizando as técnicas
+Esse trabalho teve como objetivo explorar diferentes metodologias utilizando as técnicas
 aprendidas até o momento na disciplina de Processamento Digital de Imagens (listadas
 anteriormente), com a finalidade de segmentar as classes listadas.
 
