@@ -314,9 +314,7 @@ if __name__ == "__main__":
     contador = [0]
 
     '''
-        Obs: 
-        -Todos os testes feitos a seguir foram inconclusivos, os feitos no relatório
-        eu consegui indentificar algumas classes, como mel maduro, pupa, alvéolos vazios
+        Obs:
         -O método equalizacaoHistograma precisa de uma imagem na cor cinza para seu funcionamento,
         então em alguns casos não foi possível usá-lo, pois outros métodos usam imagens coloridas
         -Para modificar a cor da imagem no momento da leitura é só trocar o parametro (dentro dos métodos) onde:
