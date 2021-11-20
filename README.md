@@ -1,6 +1,8 @@
 # PDI
 Trabalho para obtenção de créditos na disciplina de processamento digital de imagens
---
+---
+
+
 No contexto de Processamento Digital de Imagens existem inúmeras estratégias e
 metodologias que possibilitam a segmentação de objetos presentes na imagem. As imagens
 possuem características específicas que exigem do profissional a realização de experimentos e
@@ -11,16 +13,22 @@ manutenção dos quadros onde as abelhas constroem os favos de mel. Na primeira 
 quadros foram fotografados com o objetivo de analisar a porcentagem que cada uma das classes
 ocupa em relação ao todo. As 5 classes observadas são: mel, pupa, pólen, larva e alvéolos
 vazios.
+
 Esse trabalho tem como objetivo explorar diferentes metodologias utilizando as técnicas
 aprendidas até o momento na disciplina de Processamento Digital de Imagens (listadas
 anteriormente), com a finalidade de segmentar as classes listadas.
---
+
 Objetivo principal: Encontrar uma ou mais metodologias que permitam segmentar nas
 imagens as seguintes classes:
+
 ●Mel
+
 ●Pupa
+
 ●Pólen
+
 ●Larva
+
 ●Alvéolos vazios
 
 ---
