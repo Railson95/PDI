@@ -8,4 +8,4 @@ Foi possível, por meio dos testes realizados, segmentar algumas classes como me
 maduro, alvéolos vazios e pupa, entretanto outras classes como pólen e larvas não
 mostrou-se possível chegar a uma conclusão. Foram realizados diversos testes, que podem
 ser verificados no código fonte. Destaca-se que para a realização do
-trabalho foi utilizada a biblioteca OpenCV do Python, devido sua facilidade de uso.
+trabalho foram utilizadas as bibliotecas, numpy, matplot e OpenCV do Python.
